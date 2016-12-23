@@ -1,0 +1,1 @@
+﻿document.write('witam cie mój drogi przyjacielu z js-a');
